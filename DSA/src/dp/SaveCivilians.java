@@ -1,5 +1,6 @@
 package dp;
 /*
+ * Greek Weekly Contest 91
  * Some civilians are partying in a grid of dimensions n * m. Some terrorists also sneaked into the party and occupied some cells. 
  * Each cell in the grid will either be empty or can accommodate at most one person which can be either 
  * {civilian, terrorist, or soldier}.
