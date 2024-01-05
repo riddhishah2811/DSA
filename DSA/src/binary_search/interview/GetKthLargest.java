@@ -51,3 +51,6 @@ class Rextester
         System.out.println(GetKthLargest(arr, 6));
     }
 }
+// Output:
+// 5
+
